@@ -5,6 +5,7 @@ export default defineConfig({
   title: "Hoosh - Intelligent Development Agent",
   description: "A powerful command-line coding agent built in Rust. Multi-backend support, offline capability with Ollama, and granular permission control.",
   ignoreDeadLinks: 'localhostLinks',
+  base: '/hoosh-docs/',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     logo: '/hoosh.svg',
