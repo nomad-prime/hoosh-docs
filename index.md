@@ -3,7 +3,7 @@ layout: home
 
 hero:
   name: "Hoosh"
-  text: "Fastest Intelligent Coding Agent in the East"
+  text: "Fastest Intelligent Coding Agent"
   tagline: "Seamlessly integrate multiple AI backends into your development workflow."
   actions:
     - theme: brand
