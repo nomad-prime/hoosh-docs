@@ -1,1 +1,0 @@
-import{_ as s,c as a,o as e,ah as t}from"./chunks/framework.Byf2AK14.js";const c=JSON.parse('{"title":"Hoosh","description":"","frontmatter":{},"headers":[],"relativePath":"HOOSH.md","filePath":"HOOSH.md"}'),n={name:"HOOSH.md"};function l(h,i,o,r,p,k){return e(),a("div",null,[...i[0]||(i[0]=[t("",94)])])}const g=s(n,[["render",l]]);export{c as __pageData,g as default};
