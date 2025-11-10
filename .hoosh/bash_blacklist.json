@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "patterns": [
+    "rm -rf*",
+    "rm -fr*",
+    "rm -r*",
+    "sudo*",
+    "su *",
+    "doas*",
+    "dd if=*",
+    "dd of=*",
+    "mkfs*",
+    "fdisk*",
+    "parted*",
+    "/dev/sda*",
+    "/dev/sdb*",
+    "/dev/nvme*",
+    "> /dev/sd*",
+    "> /dev/nvme*",
+    "of=/dev/*",
+    "shutdown*",
+    "reboot*",
+    "halt*",
+    "poweroff*",
+    "init 0*",
+    "init 6*",
+    "*curl*|*sh*",
+    "*wget*|*sh*",
+    "*curl*|*bash*",
+    "*wget*|*bash*"
+  ]
+}

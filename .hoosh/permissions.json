@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "allow": [
+    {
+      "operation": "list_directory",
+      "pattern": "*"
+    },
+    {
+      "operation": "edit_file",
+      "pattern": "*"
+    },
+    {
+      "operation": "read_file",
+      "pattern": "*"
+    },
+    {
+      "operation": "write_file",
+      "pattern": "*"
+    }
+  ],
+  "deny": []
+}
