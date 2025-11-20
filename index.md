@@ -66,7 +66,7 @@ features:
 
 ```bash
 # 1. Install
-curl --proto '=https' --tlsv1.2 -LsSf https://github.com/nomad-prime/hoosh/releases/download/v0.1.3/hoosh-installer.sh | sh
+curl --proto '=https' --tlsv1.2 -LsSf https://github.com/nomad-prime/hoosh/releases/download/v0.2.0/hoosh-installer.sh | sh
 
 # 2. Configure
 hoosh setup
@@ -76,3 +76,5 @@ hoosh
 ```
 
 That's it!
+
+NOTE: Hoosh is currently in beta and for production use-cases not stable. Use at your own discretion
