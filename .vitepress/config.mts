@@ -6,6 +6,10 @@ export default defineConfig({
   description: "A powerful command-line coding agent built in Rust. Multi-backend support, offline capability with Ollama, and granular permission control.",
   ignoreDeadLinks: 'localhostLinks',
   base: '/hoosh-docs/',
+  head: [
+    ['link', { rel: 'icon', href: '/hoosh-docs/favicon.ico' }],
+    ['link', { rel: 'icon', type: 'image/svg+xml', href: '/hoosh-docs/favicon.svg' }],
+  ],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     logo: '/hoosh.svg',

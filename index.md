@@ -5,9 +5,6 @@ hero:
   name: "Hoosh"
   text: "The LLM Agnostic Coding Agent"
   tagline: "Seamlessly integrate multiple AI backends into your development workflow."
-  image:
-    src: /hoosh.svg
-    alt: Hoosh
   actions:
     - theme: brand
       text: Get Started
