@@ -26,8 +26,6 @@ Hoosh is a command-line AI assistant built in Rust that brings the power of mult
 ## Getting Help
 
 Found an issue? Have a suggestion?
-- 🐛 [Report bugs on GitHub](https://github.com/nomad-prime/hoosh/issues)
-- 💬 [Start a discussion](https://github.com/nomad-prime/hoosh/discussions)
-- 📧 [Contact us](mailto:hello@example.com)
+🐛 [Report bugs on GitHub](https://github.com/nomad-prime/hoosh/issues)
 
 Let's get started! Begin with [Installation](./installation.md).
