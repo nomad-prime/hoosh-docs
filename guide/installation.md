@@ -7,7 +7,7 @@ Get Hoosh up and running in just a few minutes. We support multiple installation
 The fastest way to get started with Hoosh on macOS, Linux, or Windows (WSL):
 
 ```bash
-curl --proto '=https' --tlsv1.2 -LsSf https://github.com/nomad-prime/hoosh/releases/download/v0.1.3/hoosh-installer.sh | sh
+curl --proto '=https' --tlsv1.2 -LsSf https://github.com/nomad-prime/hoosh/releases/download/v0.4.2/hoosh-installer.sh | sh
 ```
 
 This will download and install the latest precompiled binary for your platform.
