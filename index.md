@@ -63,7 +63,7 @@ features:
 
 ```bash
 # 1. Install
-curl --proto '=https' --tlsv1.2 -LsSf https://github.com/nomad-prime/hoosh/releases/download/v0.4.3/hoosh-installer.sh | sh
+curl --proto '=https' --tlsv1.2 -LsSf https://github.com/nomad-prime/hoosh/releases/download/v0.4.6/hoosh-installer.sh | sh
 
 # 2. Configure
 hoosh setup
